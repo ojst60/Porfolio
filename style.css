@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'aaargh';
+  src:  url('fonts/aaargh.woff2') format('woff2'),
+        url('fonts/aaargh.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'candice';
+  src:  url('fonts/candice.woff2') format('woff2'),
+        url('fonts/candice.woff') format('woff');
+}
+]@font-face {
+  font-family: 'waiting';
+  src:  url('fonts/waiting.woff2') format('woff2'),
+        url('fonts/waiting.woff') format('woff');
+}
+]@font-face {
+  font-family: 'web_server';
+  src:  url('fonts/web_server.woff2') format('woff2'),
+        url('fonts/web_server.woff') format('woff');
+}
+
+
+h2{font-family: 'waiting';
+		font-weight:100
+
+
+}
